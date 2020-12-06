@@ -1,0 +1,1 @@
+This program takes the picture/file you are trying to resize. The vertical and horizontal seems and resizes the picture/file. This program uses seam carving techniques to resize the picture for the user.
